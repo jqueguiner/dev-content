@@ -33,6 +33,12 @@ We welcome contributions from the developer community to help us improve and exp
 
 We appreciate all contributions and will review and respond to them as soon as possible.
 
+
+## Getting Started
+Submit a pull request. That's it!
+
+If you want to be part of the PR reviewer, let me know [jlqueguiner@gladia.io](mailto:jlqueguiner@gladia.io); I'd love to have you join this project.
+
 ## License
 
 The Dev Content Aggregator project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the codebase, but please include attribution to this repository.
