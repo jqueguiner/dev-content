@@ -3,11 +3,12 @@
 Welcome to the Dev Content Aggregator repository! This project aims to collect the best developer content from around the world, including YouTube tutorials, conferences, podcasts, blogs, websites, documentation, and more. By curating and organizing these resources, our goal is to provide developers with a centralized github repo to discover high-quality content based on their preferred programming languages and topics of interest.
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Features](#features)
+- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 ## Introduction
 
@@ -23,6 +24,13 @@ The Dev Content Aggregator provides the following features:
 4. **Multilingual Support**: Whenever possible, we specify the language used in the content, helping users find resources in their preferred language.
 5. **Contribution Guidelines**: Developers can contribute to the project by submitting content recommendations, suggesting improvements, or assisting with content curation.
 
+
+## Getting Started
+Submit a pull request. That's it!
+
+If you want to be part of the PR reviewer, let me know [jlqueguiner@gladia.io](mailto:jlqueguiner@gladia.io); I'd love to have you join this project.
+
+
 ## Contributing
 
 We welcome contributions from the developer community to help us improve and expand the Dev Content Aggregator project. If you would like to contribute, please follow these guidelines:
@@ -33,11 +41,6 @@ We welcome contributions from the developer community to help us improve and exp
 
 We appreciate all contributions and will review and respond to them as soon as possible.
 
-
-## Getting Started
-Submit a pull request. That's it!
-
-If you want to be part of the PR reviewer, let me know [jlqueguiner@gladia.io](mailto:jlqueguiner@gladia.io); I'd love to have you join this project.
 
 ## License
 
